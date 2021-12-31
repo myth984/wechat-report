@@ -1,3 +1,9 @@
+# 看看样子
+
+  没有对各个屏幕做适配 && 请用手机看(可以用浏览器-开发者工具 模拟)
+
+  https://myth.icu/wechat-report/
+
 # 教程
 
 ## 导出微信聊天记录
@@ -45,3 +51,7 @@ http://tool.chinaz.com/tools/imgtobase
 ## 生成html
 
 `npm run build`
+
+## 如果上面说的你都不会
+
+你可以用你的法子, 总之把`/src/data.json` 填入就行
