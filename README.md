@@ -55,3 +55,9 @@ http://tool.chinaz.com/tools/imgtobase
 ## 如果上面说的你都不会
 
 你可以用你的法子, 总之把`/src/data.json` 填入就行
+
+## 视频教程
+
+感谢热心网友[shaneee](https://www.v2ex.com/member/shaneee) 的视频教程
+
+https://www.bilibili.com/video/BV1QR4y1u7U8/
